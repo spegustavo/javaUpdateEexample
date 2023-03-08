@@ -1,2 +1,2 @@
 # javaUpdateEexample
-This projects has Updates exemples of each new featur of java  since java  8
+This projects has Updates exemples of each new feature of java  since java  8
