@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author spegu
+ *
+ */
+module JavaUpdateExamples {
+}
